@@ -1,0 +1,4 @@
+runtime: nodejs18
+env_variables:
+  PROJECT_ID: your-google-cloud-project-id
+  GOOGLE_APPLICATION_CREDENTIALS: path/to/your/service-account-file.json

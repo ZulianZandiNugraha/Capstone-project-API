@@ -1,0 +1,19 @@
+{
+  "name": "vegetables-analyst-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/firestore": "^7.7.0",
+    "@hapi/hapi": "^21.3.9",
+    "@tensorflow/tfjs": "^4.19.0",
+    "axios": "^1.7.2",
+    "dotenv": "^16.4.5"
+  }
+}
